@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vaibbhav-wolfvk
+- 👋 Hi, I’m @vaibhav-wolfvk
 - 👀 I’m interested in web dev,cryto
 - 🌱 I’m currently learning nodejs
 - 💞️ I’m looking to collaborate on nodejs ,web dev,blockchain projects
